@@ -1,0 +1,6 @@
+@PlanoContas_HostAddress = http://localhost:5005
+
+GET {{PlanoContas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

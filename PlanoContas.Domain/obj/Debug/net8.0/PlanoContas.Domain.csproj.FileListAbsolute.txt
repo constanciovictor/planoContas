@@ -1,0 +1,12 @@
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.csproj.AssemblyReference.cache
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.AssemblyInfoInputs.cache
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.AssemblyInfo.cs
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\PlanoContas\PlanoContas.Domain\bin\Debug\net8.0\PlanoContas.Domain.deps.json
+C:\Projetos\PlanoContas\PlanoContas.Domain\bin\Debug\net8.0\PlanoContas.Domain.dll
+C:\Projetos\PlanoContas\PlanoContas.Domain\bin\Debug\net8.0\PlanoContas.Domain.pdb
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.dll
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\refint\PlanoContas.Domain.dll
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\PlanoContas.Domain.pdb
+C:\Projetos\PlanoContas\PlanoContas.Domain\obj\Debug\net8.0\ref\PlanoContas.Domain.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kjI6y9/EGQw=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\PlanoContas\\PlanoContas.Domain\\PlanoContas.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vconstancio\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

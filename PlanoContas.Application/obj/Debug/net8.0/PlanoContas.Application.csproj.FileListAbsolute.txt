@@ -1,0 +1,15 @@
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.csproj.AssemblyReference.cache
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.AssemblyInfoInputs.cache
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.AssemblyInfo.cs
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\PlanoContas\PlanoContas.Application\bin\Debug\net8.0\PlanoContas.Application.deps.json
+C:\Projetos\PlanoContas\PlanoContas.Application\bin\Debug\net8.0\PlanoContas.Application.dll
+C:\Projetos\PlanoContas\PlanoContas.Application\bin\Debug\net8.0\PlanoContas.Application.pdb
+C:\Projetos\PlanoContas\PlanoContas.Application\bin\Debug\net8.0\PlanoContas.Domain.dll
+C:\Projetos\PlanoContas\PlanoContas.Application\bin\Debug\net8.0\PlanoContas.Domain.pdb
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoCon.A10529AB.Up2Date
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.dll
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\refint\PlanoContas.Application.dll
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\PlanoContas.Application.pdb
+C:\Projetos\PlanoContas\PlanoContas.Application\obj\Debug\net8.0\ref\PlanoContas.Application.dll

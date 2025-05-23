@@ -1,0 +1,15 @@
+C:\Projetos\PlanoContas\PlanoContas.Infra\bin\Debug\net8.0\PlanoContas.Infra.deps.json
+C:\Projetos\PlanoContas\PlanoContas.Infra\bin\Debug\net8.0\PlanoContas.Infra.dll
+C:\Projetos\PlanoContas\PlanoContas.Infra\bin\Debug\net8.0\PlanoContas.Infra.pdb
+C:\Projetos\PlanoContas\PlanoContas.Infra\bin\Debug\net8.0\PlanoContas.Domain.dll
+C:\Projetos\PlanoContas\PlanoContas.Infra\bin\Debug\net8.0\PlanoContas.Domain.pdb
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.csproj.AssemblyReference.cache
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.AssemblyInfoInputs.cache
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.AssemblyInfo.cs
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoCon.EBB8588B.Up2Date
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.dll
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\refint\PlanoContas.Infra.dll
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\PlanoContas.Infra.pdb
+C:\Projetos\PlanoContas\PlanoContas.Infra\obj\Debug\net8.0\ref\PlanoContas.Infra.dll
