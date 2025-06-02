@@ -3,13 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35431.28
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanoContas.Api", "PlanoContas.Api.csproj", "{6DC8622C-EABA-479D-BC85-C638348BEE19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanoContas.Api", "PlanoContas.Api.csproj", "{6DC8622C-EABA-479D-BC85-C638348BEE19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanoContas.Domain", "..\PlanoContas.Domain\PlanoContas.Domain.csproj", "{E0073F01-0A9D-466E-BB95-ED3EA497A3FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanoContas.Domain", "..\PlanoContas.Domain\PlanoContas.Domain.csproj", "{E0073F01-0A9D-466E-BB95-ED3EA497A3FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanoContas.Application", "..\PlanoContas.Application\PlanoContas.Application.csproj", "{BCF4C032-10F5-46B4-AC31-9448512C0D2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanoContas.Application", "..\PlanoContas.Application\PlanoContas.Application.csproj", "{BCF4C032-10F5-46B4-AC31-9448512C0D2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanoContas.Infra", "..\PlanoContas.Infra\PlanoContas.Infra.csproj", "{5379F239-3E85-48B1-93DE-F2F111A478F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlanoContas.Infra", "..\PlanoContas.Infra\PlanoContas.Infra.csproj", "{5379F239-3E85-48B1-93DE-F2F111A478F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{68C2E84E-D57F-423F-AD13-8DCF24F2243D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
